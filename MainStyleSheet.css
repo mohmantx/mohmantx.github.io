@@ -11,13 +11,15 @@ div{
     display: flex;
 }
 .column{
-    flex: 50%;
+    flex: 45%;
+    padding: 2%;
 }
 .frame{
     background-color: gray;
-    height: 500px;
+    height: 300px;
     width: 25%;
     float: left;
+    display: flex;
 }
 image{
     height: 95%;
