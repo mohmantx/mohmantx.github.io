@@ -15,17 +15,17 @@
   color: black;
 }
 .topnav a.active {
-  background-color: #4CAF50;
+  background-color: lightslategray;
   color: white;
 }
 
 
 u{
-    font-size: 250%;
+    font-size: 150%;
 }
-h1{
-    text-align: center;
-    padding: 40px;
+h1 {
+    text-align: left;
+    margin: 0;
 }
 div{
     justify-content: center;
@@ -34,21 +34,14 @@ div{
     display: flex;
 }
 .leftcolumn{
-    flex: 25%;
-    padding: 2%;
+    flex: 20%;
+    float: left;
 }
 .rightcolumn {
-    flex: 75%;
-    padding: 2%;
+    flex: 80%;
+    padding: 20px;
 }
-.frame{
-    background-color: gray;
+.frame {
     display: inline-block;
     width: 20%;
-    float: right;
-    display: flex;
-}
-image{
-    border-radius: 20px;
-    border-color: gray;
 }
