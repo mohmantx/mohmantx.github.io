@@ -10,8 +10,12 @@ div{
 .row{
     display: flex;
 }
-.column{
-    flex: 45%;
+.leftcolumn{
+    flex: 25%;
+    padding: 2%;
+}
+.rightcolumn {
+    flex: 75%;
     padding: 2%;
 }
 .frame{
