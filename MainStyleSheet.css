@@ -1,6 +1,9 @@
 ﻿body{
     margin: 30px;
 }
+.headshot {
+    border: 10px solid #333;
+}
 /*Nav Bar*/
 .topnav {
     background-color: #333;
@@ -55,6 +58,8 @@ h2{
     display: inline-block;
     width: 20%;
     margin-top: 20px;
+    border-width: 5px;
+    border-color: grey;
 }
 .reference {
     margin: 20px 0;
