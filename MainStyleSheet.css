@@ -3,6 +3,7 @@
 }
 h1{
     text-align: center;
+    padding: 40px;
 }
 div{
     justify-content: center;
@@ -27,4 +28,5 @@ div{
 }
 image{
     border-radius: 20px;
+    border-color: gray;
 }
