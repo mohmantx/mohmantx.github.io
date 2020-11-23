@@ -1,4 +1,8 @@
-﻿.topnav {
+﻿body{
+    margin: 30px;
+}
+/*Nav Bar*/
+.topnav {
     background-color: #333;
     overflow: hidden;
 }
@@ -19,13 +23,12 @@
   color: white;
 }
 
-
+/*Intro Page*/
 u{
-    font-size: 150%;
 }
 h1 {
     text-align: left;
-    margin: 0;
+    margin: 0 0;
 }
 div{
     justify-content: center;
@@ -41,7 +44,29 @@ div{
     flex: 80%;
     padding: 20px;
 }
+.introduction{
+    border-color: black;
+    border: solid;
+}
+h3{
+    margin: 10px;
+}
 .frame {
     display: inline-block;
     width: 20%;
+    margin-top: 20px;
+}
+.reference {
+    margin: 20px 0;
+}
+a {
+    color: dodgerblue;
+}
+
+/*About Page*/
+.abt{
+    flex: 40%;
+}
+li{
+    margin: 5px;
 }
