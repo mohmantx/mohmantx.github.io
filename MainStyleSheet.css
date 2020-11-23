@@ -1,11 +1,15 @@
-﻿body
-{
+﻿u{
+    font-size: 300%;
+}
+div{
+    justify-content: center;
 }
 h1{
-    font-size:200%;
     text-align: center;
 }
 .frame{
     background-color: gray;
-    height: 250px;
+    height: 500px;
+    width: 25%;
+    
 }
