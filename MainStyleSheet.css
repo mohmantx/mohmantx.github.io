@@ -16,12 +16,11 @@ div{
 }
 .frame{
     background-color: gray;
-    height: 300px;
-    width: 25%;
+    display: inline-block;
+    width: 20%;
     float: left;
     display: flex;
 }
 image{
-    height: 95%;
-    width: 95%;
+    border-radius: 20px;
 }
