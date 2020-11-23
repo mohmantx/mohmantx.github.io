@@ -19,7 +19,7 @@
   color: black;
 }
 .topnav a.active {
-  background-color: lightslategray;
+  background-color: lightsteelblue;
   color: white;
 }
 
@@ -48,7 +48,7 @@ div{
     border-color: black;
     border: solid;
 }
-h3{
+h2{
     margin: 10px;
 }
 .frame {
@@ -60,13 +60,14 @@ h3{
     margin: 20px 0;
 }
 a {
-    color: dodgerblue;
+    color: steelblue;
 }
 
 /*About Page*/
 .abt{
     flex: 40%;
 }
-li{
-    margin: 5px;
+li {
+    margin: 20px;
+    font-size: 20px;
 }
