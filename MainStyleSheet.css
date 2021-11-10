@@ -40,11 +40,11 @@ div{
     display: flex;
 }
 .leftcolumn{
-    flex: 20%;
+    flex: 30%;
     float: left;
 }
 .rightcolumn {
-    flex: 80%;
+    flex: 70%;
     padding: 20px;
 }
 .introduction{
